@@ -120,12 +120,18 @@ Example: `/notifications/user2`
 - 📜 Notifications appear under the target user’s section
 - ❌ If no notifications exist → shows `No notifications yet`
 
+🖼️ **Backend UI Preview**
+
+<p style="text-align: center;">
+  <img src="./public/backendimg.png" alt="UI Preview" width="600"/>
+</p>
+
 ---
 
 ## 🚀 Deployment
 
-- 🌐 **Frontend** → Vercel
-- 🔗 **Backend** → Render
+- 🌐 **Frontend** → [Vercel](https://insyd-notification-frontend.vercel.app)
+- 🔗 **Backend** → [Render](https://insyd-notification-backend.onrender.com)
 
 Update `.env` in frontend to point to backend Render URL.
 
